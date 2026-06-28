@@ -29,7 +29,7 @@ const App = () => {
     );
 
   return (
-    <div className="text-red-500">
+    <div className="">
       <Navbar />
 
       <Routes>
