@@ -1,5 +1,5 @@
-import { useAuthStore } from "../store/useAuthStore";
-import AuthImagePattern from "../components/AuthImagePattern";
+import { useAuthStore } from "../store/useAuthStore.js";
+import AuthImagePattern from "../components/AuthImagePattern.jsx";
 import { useState } from "react";
 import {
   Eye,
