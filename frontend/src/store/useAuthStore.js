@@ -11,6 +11,8 @@ export const useAuthStore = create((set) => ({
   isCheckingAuth: true,
   // starting to check if the user is authenticated as soon as a page being refreshed
 
+  onlineUsers: [],
+
   checkAuth: async () => {
     try {
       const res = await axiosInstance.get("/auth/check");
