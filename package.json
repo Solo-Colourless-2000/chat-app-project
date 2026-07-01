@@ -1,0 +1,21 @@
+{
+  "name": "chat-app-project",
+  "version": "1.0.0",
+  "description": "This project is for me learning web develpment.<br>\r It is based on the 4th section of a Udemy course (see the link below), not my original project or anything.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Solo-Colourless-2000/chat-app-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Solo-Colourless-2000/chat-app-project/issues"
+  },
+  "homepage": "https://github.com/Solo-Colourless-2000/chat-app-project#readme"
+}
